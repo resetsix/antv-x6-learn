@@ -4,7 +4,9 @@
 
 ### Q1:点击 node 也会进行拖拽
 
-A1: 在函数式组件中，当画布渲染时需要保证销毁上一次的 graph 实例。
+A1: React `StrictMode`严格模式下会渲染两次画布。
+
+要么关闭严格模式，要么在组件每次渲染时保证销毁上一次的 graph 实例。
 
 ```tsx
 export const Demo01: React.FC = () => {

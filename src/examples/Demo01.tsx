@@ -94,12 +94,6 @@ export const Demo01: React.FC = () => {
 
         // 组件卸载时，销毁 graph 实例
         return () => graphRef.current?.dispose();
-        // return () => {
-        //     if (graphRef.current) {
-        //         graphRef.current.dispose();
-        //         graphRef.current = null;
-        //     }
-        // };
     }, []);
 
     return (
