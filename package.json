@@ -2,6 +2,7 @@
   "name": "antv-x6-learn",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://resetsix.github.io/antv-x6-learn/",
   "dependencies": {
     "@antv/x6": "^2.18.1",
     "@antv/x6-react-shape": "^2.2.3",
