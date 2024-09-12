@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c3143ca.css",
-    "main.js": "/static/js/main.c9ddc2f6.js",
-    "static/js/453.7a480b4a.chunk.js": "/static/js/453.7a480b4a.chunk.js",
-    "index.html": "/index.html",
-    "main.3c3143ca.css.map": "/static/css/main.3c3143ca.css.map",
-    "main.c9ddc2f6.js.map": "/static/js/main.c9ddc2f6.js.map",
-    "453.7a480b4a.chunk.js.map": "/static/js/453.7a480b4a.chunk.js.map"
+    "main.css": "/antv-x6-learn/static/css/main.3c3143ca.css",
+    "main.js": "/antv-x6-learn/static/js/main.333e3681.js",
+    "static/js/453.7a480b4a.chunk.js": "/antv-x6-learn/static/js/453.7a480b4a.chunk.js",
+    "index.html": "/antv-x6-learn/index.html",
+    "main.3c3143ca.css.map": "/antv-x6-learn/static/css/main.3c3143ca.css.map",
+    "main.333e3681.js.map": "/antv-x6-learn/static/js/main.333e3681.js.map",
+    "453.7a480b4a.chunk.js.map": "/antv-x6-learn/static/js/453.7a480b4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c3143ca.css",
-    "static/js/main.c9ddc2f6.js"
+    "static/js/main.333e3681.js"
   ]
 }
